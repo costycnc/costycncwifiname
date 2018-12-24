@@ -1,5 +1,6 @@
 # costycncwifiname
 How change wifi name directly in bin file
+
 Change name of ip station
 ------------------------
 Name wifi of this ip module is "Costycnc"
