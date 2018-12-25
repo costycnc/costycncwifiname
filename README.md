@@ -24,3 +24,5 @@ at address 00050E70 is password and wifi name that need change to connect with y
 change Infostrada-2.4GHz-02C3F6 with your name home modem wifi
 
 and change costycnc1967 with your password
+
+Folder decompile contain decompiler and files compiled by Arduino
