@@ -25,4 +25,8 @@ change Infostrada-2.4GHz-02C3F6 with your name home modem wifi
 
 and change costycnc1967 with your password
 
+Your text need to finish with 0
+
+00050AB0 Costycnc 0 0 0 Connecting to %s
+
 Folder decompile contain decompiler and files compiled by Arduino
