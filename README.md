@@ -1,5 +1,15 @@
 # costycncwifiname
-How change wifi name directly in bin file
+How change text directly in bin file
+
+You can change some text in bin file directly.
+
+For example ... I create and compile with Arduino for esp8255 a program with can command
+
+the costycnc machine http://www.costycnc.it under wifi
+
+But name of wifi module, name of wifi modem and password is for mine modem . so...
+
+I learn how change these with yours...
 
 Change name of ip station
 ------------------------
